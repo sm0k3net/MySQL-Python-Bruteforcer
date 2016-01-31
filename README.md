@@ -12,4 +12,4 @@ Additionaly need to put file 'mysql_user.txt' with credentials in the same direc
 Format of file is very simple, each line is new username:password
 <br />
 <b>Commands:</b>
-python mysql_brute.py <code><hostname></code>
+python mysql_brute.py 'hostname' (without quotes)
